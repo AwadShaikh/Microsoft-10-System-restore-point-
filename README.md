@@ -32,33 +32,73 @@ Creating manual system restore point in windows 10 : <br/>
 <img src="https://imgur.com/8cMgYXO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Successfully created System restore point  :  <br/>
+Successfully created system restore point  :  <br/>
 <img src="https://imgur.com/iwBnpPM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Successfully created System restore point :  <br/>
+Successfully created system restore point :  <br/>
 <img src="https://imgur.com/09dRgbE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
-
-
-
-
-
-Customizing access and override settings:  <br/>
-<img src="https://imgur.com/GSNEzoj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/SKiOc6r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Turning on the policy :  <br/>
-<img src="https://imgur.com/yN8sc2t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating manual system restore point in windows 10 : <br/>
+<img src="https://imgur.com/8cMgYXO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-policy in effect :  <br/>
-<img src="https://imgur.com/O6SH9L5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Successfully created system restore point  :  <br/>
+<img src="https://imgur.com/iwBnpPM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<!--
+Successfully created system restore point :  <br/>
+<img src="https://imgur.com/09dRgbE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Labs output Crashing system by chaning startup valued in system registry  :  <br/>
+<img src="https://imgur.com/ak4IeOr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Restoring crashed system using the system restore point created before  :  <br/>
+<img src="https://imgur.com/VM7UTUj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Restoring crashed system using the system restore point created before : <br/>
+<img src="https://imgur.com/nN8a1Dr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Restoring crashed system using the system restore point created before :  <br/>
+<img src="https://imgur.com/jSU8bX3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Restoring crashed system using the system restore point created before :  <br/>
+<img src="https://imgur.com/V51nBqm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Restoring crashed system using the system restore point created before :  <br/>
+<img src="https://imgur.com/lQpj2YO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Restoring crashed system using the system restore point created before :  <br/>
+<img src="https://imgur.com/GXurHTD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Restoring crashed system using the system restore point created before :  <br/>
+<img src="https://imgur.com/iBellOr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Successfully restored system using system restore point created before :  <br/>
+<img src="https://imgur.com/UyY2Tlw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Successfully restored system using system restore point created before :  <br/>
+<img src="https://imgur.com/1zRsKwx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<br />
+ 
+ <!--
  ```diff
 - text in red
 + text in green
