@@ -24,27 +24,12 @@ Creating manual system restore point in windows 10  : <br/>
 <img src="https://imgur.com/8aSYeK8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Creating manual system restore point in windows 10 : <br/>
+<img src="https://imgur.com/8cMgYXO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Creating manual system restore point in windows 10:  <br/>
 <img src="https://imgur.com/SKiOc6r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Creating manual system restore point in windows 10 : <br/>
-<img src="https://imgur.com/8cMgYXO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Successfully created system restore point  :  <br/>
-<img src="https://imgur.com/iwBnpPM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Successfully created system restore point :  <br/>
-<img src="https://imgur.com/09dRgbE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://imgur.com/SKiOc6r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Creating manual system restore point in windows 10 : <br/>
-<img src="https://imgur.com/8cMgYXO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Successfully created system restore point  :  <br/>
@@ -68,19 +53,19 @@ Restoring crashed system using the system restore point created before : <br/>
 <br />
 <br />
 Restoring crashed system using the system restore point created before :  <br/>
+<img src= "https://imgur.com/V51nBqm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Restoring crashed system using the system restore point created before :  <br/>
 <img src="https://imgur.com/jSU8bX3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Restoring crashed system using the system restore point created before :  <br/>
-<img src="https://imgur.com/V51nBqm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/GXurHTD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Restoring crashed system using the system restore point created before :  <br/>
 <img src="https://imgur.com/lQpj2YO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Restoring crashed system using the system restore point created before :  <br/>
-<img src="https://imgur.com/GXurHTD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Restoring crashed system using the system restore point created before :  <br/>
@@ -91,12 +76,10 @@ Successfully restored system using system restore point created before :  <br/>
 <img src="https://imgur.com/UyY2Tlw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Successfully restored system using system restore point created before :  <br/>
-<img src="https://imgur.com/1zRsKwx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <br />
 <br />
-<br />
-<br />
+
  
  <!--
  ```diff
