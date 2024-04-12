@@ -40,7 +40,7 @@ Successfully created system restore point :  <br/>
 <img src="https://imgur.com/09dRgbE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Labs output Crashing system by chaning startup valued in system registry  :  <br/>
+Labs output Crashing system by chaning startup value in system registry  :  <br/>
 <img src="https://imgur.com/ak4IeOr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
